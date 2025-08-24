@@ -20,3 +20,10 @@ The project culminated by joining all datasets into a comprehensive “Final” 
 Further, I practiced text manipulation by appending salutations to names, handled column transformations, and eliminated redundancies such as dropping the gender column post-enhancement. Advanced skills were applied in aggregating each employee’s total project costs and filtering datasets—for instance, printing details of employees whose city name contains the letter “o”.
 
 This project is a hands-on demonstration of my Python capabilities, including data wrangling, conditionals, aggregation, and string operations. Beyond coding, it reflects my attention to clean, readable data structures and adherence to real-world business logic. The project represents my ability to solve practical problems, deliver insightful analysis, and document the process for clear understanding and reproducibility. I am committed to expanding my skills to tackle larger, more complex analytics challenges on my data science journey.
+
+
+# LINKED IN PROFILE 
+https://www.linkedin.com/in/mp-karumbaiah-8629ba165/
+
+# CERTIFICATIONS 
+https://www.skillovilla.com/certificate/306ECIE2
